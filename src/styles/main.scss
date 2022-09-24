@@ -18,17 +18,17 @@ justify-content: center;
 height: 100vh;
 overflow: hidden;
 margin: 0;
-padding: 20px;
+padding: 120px;
 }
 
 .container {
 background-color: $secondary-color;
 border-radius: 10px;
 box-shadow: $box-shadow;
-padding: 70px 20px;
+padding: 20px 50px;
 text-align: center;
 max-width: 100%;
-width: 800px;
+width: 500px;
 }
 
 h3 {
@@ -39,15 +39,15 @@ letter-spacing: 2px;
 
 img {
 width: 100px;
-margin-bottom: 10px;
 }
 
 .joke {
-font-size: 30px;
+font-size: 20px;
 letter-spacing: 1px;
 line-height: 35px;
-margin: 60px 0;
-max-width: 600px;
+max-width: 300px;
+width: 50%;
+margin: 60px 151px !important;
 }
 
 .btn {
@@ -56,7 +56,7 @@ color: $secondary-color;
 border: 0;
 border-radius: 10px;
 box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
-padding: 14px 40px;
+padding: 54px 40px;
 font-size: 20px;
 cursor: pointer;
 
